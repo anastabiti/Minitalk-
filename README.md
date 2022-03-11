@@ -15,10 +15,10 @@ First, a signal is raised (we sometimes also say it is sent or generated). The k
 Finally, once it is free to do so, the kernel handles the signal as appropriate.
 
 # The kernel can perform one of three actions, depending on what the process asked it to do: 
-1- Ignore the signal ( There are two signals that cannot be ignored: SIGKILL and SIGSTOP)
-2 - Catch and handle the signal
-3 - Perform the default action
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+##### 1- Ignore the signal ( There are two signals that cannot be ignored: SIGKILL and SIGSTOP)
+##### 2 - Catch and handle the signal
+##### 3 - Perform the default action
+
 
 # Signal Identifiers 
 Every signal has a symbolic name that starts with the prefix SIG. For example, SIGINT is the signal sent when the user presses Ctrl-C,
