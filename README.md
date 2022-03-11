@@ -43,10 +43,10 @@ https://user-images.githubusercontent.com/79755743/157832262-597d5a20-a612-45dc-
 
 
 # PDF:
-[Uploading inter-process_communication_in_linux.pdf…]()
 
-[Linux system programming talking directly to the kernel and C library by Robert Love (z-lib.org).pdf](https://github.com/anastabiti/Minitalk-/files/8230454/Linux.system.programming.talking.directly.to.the.kernel.and.C.library.by.Robert.Love.z-lib.org.pdf)
-[IPC (1).pdf](https://github.com/anastabiti/Minitalk-/files/8230455/IPC.1.pdf)
+# 1 [IPC (1).pdf](https://github.com/anastabiti/Minitalk-/files/8230464/IPC.1.pdf)
+# 2 [Linux system programming talking directly to the kernel and C library by Robert Love (z-lib.org).pdf](https://github.com/anastabiti/Minitalk-/files/8230465/Linux.system.programming.talking.directly.to.the.kernel.and.C.library.by.Robert.Love.z-lib.org.pdf)
+# 3 [inter-process_communication_in_linux.pdf](https://github.com/anastabiti/Minitalk-/files/8230468/inter-process_communication_in_linux.pdf)
 
 
 
