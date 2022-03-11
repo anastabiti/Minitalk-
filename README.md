@@ -28,9 +28,12 @@ SIGABRT is the signal sent when the process calls the abort() function, and SIGK
 Global variables are defined outside a function, usually on top of the program. Global variables hold their values throughout the lifetime of your program and they can be accessed inside any of the functions defined for the program.
 A global variable can be accessed by any function. That is, a global variable is available for use throughout your entire program after its declaration. 
 
-# How to View and Kill Processes (ID) Using the Terminal in Mac OS X:
+# How to View and Kill Processes (ID):
+
 Use this command : ps -ax
- 
+# The ps command
+##### is a flexible tool for identifying the programs that are running on the system and the resources they are using. It displays statistics and status information about processes on the system, such as process or thread ID, I/O activity, CPU, and memory utilization.
+
 # Man  signal :
 ##### 30    SIGUSR1      terminate process    User defined signal 1
 ##### 31    SIGUSR2      terminate process    User defined signal 2
