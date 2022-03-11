@@ -51,6 +51,6 @@ https://user-images.githubusercontent.com/79755743/157832262-597d5a20-a612-45dc-
 
 
 # Courses
-# 1 https://www.pluralsight.com/courses/linux-systems-programming (paid)
+#  https://www.pluralsight.com/courses/linux-systems-programming (paid)
 # FREE (Linux Systems Programming by Chris Brown) here https://git.ir/pluralsight-linux-systems-programming/ just create an account and use translation extension.
 
