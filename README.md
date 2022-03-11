@@ -35,7 +35,8 @@ Use this command : ps -ax
 ##### 30    SIGUSR1      terminate process    User defined signal 1
 ##### 31    SIGUSR2      terminate process    User defined signal 2
 
-# sigaction() used instead of signal() in order to get the parameter 'info->si_pid' the pid of the sender - client.
+# sigaction() used instead of signal() in order to get the parameter
+# 'info->si_pid' the pid of the sender .
 The signal() function is very basic. Because it is part of the standard C library and therefore has to reflect minimal assumptions about the capabilities of the operating system on which it runs, it can offer only a lowest common denominator to signal management. As an alternative, POSIX standardizes the sigaction() system call, which provides much greater signal management capabilities. 
 
 
