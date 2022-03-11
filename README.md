@@ -39,6 +39,7 @@ Use this command : ps -ax
 # 'info->si_pid' the pid of the sender .
 The signal() function is very basic. Because it is part of the standard C library and therefore has to reflect minimal assumptions about the capabilities of the operating system on which it runs, it can offer only a lowest common denominator to signal management. As an alternative, POSIX standardizes the sigaction() system call, which provides much greater signal management capabilities. 
 
+# DEMO
 
 https://user-images.githubusercontent.com/79755743/157832262-597d5a20-a612-45dc-84bd-64e3338919a4.mov
 
